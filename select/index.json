@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "Goodbye Myself",
+  "base_artist": "Nornis",
+  "createdAt": "2026-01-05T06:58:39.969147Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Goodbye Myself",
+      "artist": "Nornis",
+      "has_synced": true,
+      "path": "select/01_Goodbye_Myself_Nornis.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Goodbye Myself",
+      "artist": "Nornis",
+      "has_synced": false,
+      "path": "select/pl_01_Goodbye_Myself_Nornis.txt"
+    }
+  ]
+}
